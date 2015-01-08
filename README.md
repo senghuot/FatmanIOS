@@ -1,0 +1,1 @@
+ I will try to spend an hour a day playing with IOS Dev, It will take about weeks till to ramp up at this speed. But, this is something fun and I've been wanting to do this in a looong time. Let's reach that goal one line of code at a time.
