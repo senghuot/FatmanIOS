@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D12F5CF1-B1A2-447C-A979-7DC190C73407</string>
+	<string>3786A486-865C-4A8F-ADB9-AE863B00095C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CheckList</string>
+	<string>PhotoFilters</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</key>
 		<string>https://github.com/senghuot/FatmanIOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CheckLists/CheckList/CheckList.xcodeproj</string>
+	<string>PhotoFilters/PhotoFilters.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FC6B5D9B5FB83F13FB303B5C808DCF427AC4B75D</key>
-		<string>../../../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/senghuot/FatmanIOS.git</string>

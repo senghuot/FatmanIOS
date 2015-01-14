@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E662CFD21A64A68B0039822E"
-               BuildableName = "CheckList.app"
-               BlueprintName = "CheckList"
-               ReferencedContainer = "container:CheckList.xcodeproj">
+               BlueprintIdentifier = "E662D06B1A64C2300039822E"
+               BuildableName = "PhotoFilters.app"
+               BlueprintName = "PhotoFilters"
+               ReferencedContainer = "container:PhotoFilters.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E662CFEA1A64A68B0039822E"
-               BuildableName = "CheckListTests.xctest"
-               BlueprintName = "CheckListTests"
-               ReferencedContainer = "container:CheckList.xcodeproj">
+               BlueprintIdentifier = "E662D0831A64C2300039822E"
+               BuildableName = "PhotoFiltersTests.xctest"
+               BlueprintName = "PhotoFiltersTests"
+               ReferencedContainer = "container:PhotoFilters.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E662CFEA1A64A68B0039822E"
-               BuildableName = "CheckListTests.xctest"
-               BlueprintName = "CheckListTests"
-               ReferencedContainer = "container:CheckList.xcodeproj">
+               BlueprintIdentifier = "E662D0831A64C2300039822E"
+               BuildableName = "PhotoFiltersTests.xctest"
+               BlueprintName = "PhotoFiltersTests"
+               ReferencedContainer = "container:PhotoFilters.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E662CFD21A64A68B0039822E"
-            BuildableName = "CheckList.app"
-            BlueprintName = "CheckList"
-            ReferencedContainer = "container:CheckList.xcodeproj">
+            BlueprintIdentifier = "E662D06B1A64C2300039822E"
+            BuildableName = "PhotoFilters.app"
+            BlueprintName = "PhotoFilters"
+            ReferencedContainer = "container:PhotoFilters.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E662CFD21A64A68B0039822E"
-            BuildableName = "CheckList.app"
-            BlueprintName = "CheckList"
-            ReferencedContainer = "container:CheckList.xcodeproj">
+            BlueprintIdentifier = "E662D06B1A64C2300039822E"
+            BuildableName = "PhotoFilters.app"
+            BlueprintName = "PhotoFilters"
+            ReferencedContainer = "container:PhotoFilters.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E662CFD21A64A68B0039822E"
-            BuildableName = "CheckList.app"
-            BlueprintName = "CheckList"
-            ReferencedContainer = "container:CheckList.xcodeproj">
+            BlueprintIdentifier = "E662D06B1A64C2300039822E"
+            BuildableName = "PhotoFilters.app"
+            BlueprintName = "PhotoFilters"
+            ReferencedContainer = "container:PhotoFilters.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

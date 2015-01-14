@@ -1,6 +1,6 @@
 //
-//  CheckListTests.swift
-//  CheckListTests
+//  PhotoFiltersTests.swift
+//  PhotoFiltersTests
 //
 //  Created by Senghuot Lim on 1/12/15.
 //  Copyright (c) 2015 Senghuot Lim. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class CheckListTests: XCTestCase {
+class PhotoFiltersTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

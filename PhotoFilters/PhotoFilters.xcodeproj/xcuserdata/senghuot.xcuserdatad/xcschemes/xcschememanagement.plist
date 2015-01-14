@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CheckList.xcscheme</key>
+		<key>PhotoFilters.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E662CFD21A64A68B0039822E</key>
+		<key>E662D06B1A64C2300039822E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E662CFEA1A64A68B0039822E</key>
+		<key>E662D0831A64C2300039822E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
